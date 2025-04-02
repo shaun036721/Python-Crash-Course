@@ -1,1 +1,1 @@
-A repository to track my progress as I read through the Python Crash Course, 3rd edition. 
+A repository to track my progress as I read through the Python Crash Course, 3rd edition by Eric Matthes. 
